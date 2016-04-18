@@ -1,0 +1,16 @@
+https://github.com/marcus-burton/abc-bank
+
+I have spent few hours on this assignment. Please let me know if I need to continue working on any specific task.
+I have written enough test cases to ensure 100% code coverage.
+But a scalable and distributed application needs more time to architect, design, develop, test [and deploy].
+
+TO DO (Work In Progress)
+  - Javadoc documentation of key methods
+  - Duplicate customers not allowed
+  - For one customer - Do not allow multiple accounts of the same type. For example John can not have two Checking accounts
+  - Address Performance, Scalability or any other system quality metrics 
+  - Test Plan
+     - More test cases need to be added to cover all testing scenarios (combinations)
+     - Test cases for multi-threading environment
+
+
